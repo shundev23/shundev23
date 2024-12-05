@@ -1,5 +1,3 @@
-# Hello, I'm Shunsei! 👋
-
 ## About Me
 I'm a **Fullstack Developer** with a strong passion for **backend development**.
 
