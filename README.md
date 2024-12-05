@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Shunsei! 👋
 
-<!--
-**shundev23/shundev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Fullstack Developer** with a strong passion for **backend development**.
 
-Here are some ideas to get you started:
+At work, I use the following technologies:
+- **C#**, **ASP.NET Core**
+- **JavaScript**
+- **SQL Server** (middleware)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For personal projects, I work with the following technologies:
+- **Python**
+- **TypeScript**
+- **React**
+- **Flask**
+
+## 🚀 Skills
+- **Backend**: C#, ASP.NET Core, Flask
+- **Frontend**: React, TypeScript
+- **Databases**: SQL Server, PostgreSQL
+- **Other**: Docker, Git, AWS, SVN
+
+## 📫 Contact Me
+- Email: [zenwave.nanyo@gmail.com](mailto:youremail@example.com)
+- Twitter: [@shunse1_](https://twitter.com/shunse1_)
