@@ -17,7 +17,3 @@ For personal projects, I work with the following technologies:
 - **Frontend**: React, jquery, Typescript
 - **Databases**: SQL Server, PostgreSQL
 - **Other**: Docker, Git, AWS, SVN
-
-## 📫 Contact Me
-- Email: [zenwave.nanyo@gmail.com](mailto:youremail@example.com)
-- Twitter: [@shunse1_](https://twitter.com/shunse1_)
