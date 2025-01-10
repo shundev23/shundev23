@@ -1,5 +1,5 @@
 ## About Me
-I'm a **Fullstack Developer** with a strong passion for **backend development**.
+I'm a **Software Developer** with a strong passion for **backend development**.
 
 At work, I use the following technologies:
 - **C#**, **ASP.NET Core**
