@@ -7,13 +7,11 @@ At work, I use the following technologies:
 - **SQL Server** (middleware)
 
 For personal projects, I work with the following technologies:
-- **Python**
 - **Go**
 - **React**
-- **Flask**
 
 ## 🚀 Skills
-- **Backend**: C#, ASP.NET Core, Flask, Go
+- **Backend**: C#, ASP.NET Core, Go
 - **Frontend**: React, jquery, Typescript
 - **Databases**: SQL Server, PostgreSQL
 - **Other**: Docker, Git, AWS, SVN
