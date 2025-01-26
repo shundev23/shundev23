@@ -20,19 +20,10 @@ I'm a **Software Developer** with a strong passion for **backend development**.
 
 ---
 
-## 🌟 My Repositories
-
-| Name | Description | Last Commit |
-|------|-------------|-------------|
-| [FlickerFlow](https://github.com/username/FlickerFlow) | Emotion economy simulator | 2025-01-20 |
-| [FolioNest](https://github.com/username/FolioNest) | Portfolio manager for developers | 2024-12-15 |
-
----
-
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shundev23&layout=compact)](https://github.com/yourusername)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shundev23&show_icons=true&count_private=true)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shundev23&layout=compact)](https://github.com/shundev23)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shundev23&show_icons=true&count_private=true)](https://github.com/shundev23)
 
 ---
 
