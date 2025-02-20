@@ -38,7 +38,7 @@ I'm a **Software Developer** with a strong passion for **backend development**.
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/o2g_sn" target="_blank">
+  <a href="https://instagram.com/4hns1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>
   <!-- Zenn -->
