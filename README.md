@@ -19,7 +19,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shundev23&layout=compact)](https://github.com/shundev23)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shundev23&show_icons=true&count_private=true)](https://github.com/shundev23)
-
-## 🌱 My Contribution Graph
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shundev23&theme=dark)](https://git.io/streak-stats)
