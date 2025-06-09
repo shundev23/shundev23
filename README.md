@@ -1,22 +1,102 @@
-# 👋 Welcome to My GitHub Profile🦖
-## 🛠 Technologies & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shundev23&layout=compact)](https://github.com/shundev23)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shundev23&show_icons=true&count_private=true)](https://github.com/shundev23)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shunsei+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Web+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
+## 🌟 **About Me**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=go" width="100" height="100" alt="Go" />
+<br><strong>Go</strong>
+</td>
+<td width="400" align="left">
+
+### 👋 **Hi, I'm Shunsei!**
+🚀 **Backend Developer** passionate about web development  
+
+🌍 **Location:** Japan 🇯🇵  
+
+💼 **Focus:** Developing robust and seamless web applications
+
+☕ **Powered by:** Coffee and curiosity  
+
+🎯 **Goal:** Creating amazing user experiences  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shundev23&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shundev23&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+## 🛠️ **Tech Stack**
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🔥  **Backend as a Service (BaaS)**
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+### ☁️  **Cloud**
+<img src="https://skillicons.dev/icons?i=gcp" />
+
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,visualstudio" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+### 💻  **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,ts,react,tailwind,html,css" />
+
+</td>
+</tr>
+</table>
+
+## 🏆 **GitHub Trophies (Commits)**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shundev23&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  **⭐ From [user](https://github.com/shundev23) with ❤️**
+  
+  *"Go changes everything!! "*
+</div>
