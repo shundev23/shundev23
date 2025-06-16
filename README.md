@@ -67,11 +67,8 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgres" />
-
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,ts,react,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,ts,react,dart,flutter" />
 
 </td>
 </tr>
