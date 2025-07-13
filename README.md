@@ -55,11 +55,8 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🔥  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=firebase" />
-
 ### ☁️  **Cloud**
-<img src="https://skillicons.dev/icons?i=gcp" />
+<img src="https://skillicons.dev/icons?i=aws" />
 
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" />
@@ -68,7 +65,7 @@
 <td width="50%" align="center" valign="top">
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,ts,react,dart,flutter" />
+<img src="https://skillicons.dev/icons?i=go,cs,dotnet,js,ts,react" />
 
 </td>
 </tr>
