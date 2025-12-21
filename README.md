@@ -56,7 +56,7 @@
 <td width="50%" align="center" valign="top">
 
 ### ☁️  **Cloud**
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=gcp" />
 
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" />
