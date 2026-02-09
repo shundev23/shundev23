@@ -74,7 +74,7 @@
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shundev23&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shundev23&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits&v=1" />
 </div>
 
 ## 💭 **Random Dev Quote**
