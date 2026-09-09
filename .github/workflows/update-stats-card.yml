@@ -1,0 +1,50 @@
+name: Update GitHub stats card
+
+on:
+  schedule:
+    # 毎日 00:00 UTC (09:00 JST)。GitHub 側の負荷により数分〜数十分遅延することがあります。
+    - cron: "0 0 * * *"
+  # ワークフロー自体を更新したとき（＝初回セットアップ時）にすぐ生成する
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-stats-card.yml
+  workflow_dispatch:
+
+# 生成物を push するため、同時実行による衝突を防ぐ
+concurrency:
+  group: update-stats-card
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true"
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # 既定値 false のまま。生成に失敗しても直前のカードが残るため、
+          # 壊れた画像を表示するよりプロフィールの見た目が安定する。
+          fail_on_error: false
+
+      - name: Commit card if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg
+          if git diff --cached --quiet; then
+            echo "Stats card unchanged; nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub stats card"
+          git push

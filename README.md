@@ -6,4 +6,4 @@ Backend Developer based in Japan 🇯🇵
 - **Cloud** — Google Cloud, Docker
 - **Learning** — Security & Cloud Architecture
 
-<img src="https://github-readme-stats.vercel.app/api?username=shundev23&show_icons=true&theme=transparent&hide_border=true" height="150" alt="shundev23's GitHub stats" />
+<img src="./assets/github-stats.svg" height="150" alt="shundev23's GitHub stats" />
